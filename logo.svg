@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Logo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#54decf"/><stop offset="1" stop-color="#37bfd7"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5bcbdc"/><stop offset="1" stop-color="#3387ee"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#346fe8"/><stop offset="1" stop-color="#153db5"/></linearGradient>
+  </defs>
+  <circle cx="110" cy="110" r="17" fill="#eef4fb"/>
+  <g fill="none" stroke-linecap="butt">
+    <path d="M35 72 A82 82 0 0 0 86 190" stroke="url(#g1)" stroke-width="15"/>
+    <path d="M48 61 A68 68 0 0 0 94 174" stroke="url(#g2)" stroke-width="11"/>
+    <path d="M62 72 A53 53 0 0 0 101 158" stroke="url(#g3)" stroke-width="9"/>
+    <path d="M135 30 A82 82 0 0 1 185 148" stroke="url(#g1)" stroke-width="15"/>
+    <path d="M133 47 A68 68 0 0 1 171 139" stroke="url(#g2)" stroke-width="11"/>
+    <path d="M129 65 A53 53 0 0 1 156 130" stroke="url(#g3)" stroke-width="9"/>
+  </g>
+</svg>
